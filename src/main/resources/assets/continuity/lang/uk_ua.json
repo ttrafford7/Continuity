@@ -1,0 +1,9 @@
+{
+  "options.continuity.title": "Налаштування Continuity",
+  "options.continuity.connected_textures": "З'єднані текстури",
+  "options.continuity.connected_textures.tooltip": "Увімкнути або вимкнути з'єднані текстури для блоків.",
+  "options.continuity.emissive_textures": "Яскраві текстури",
+  "options.continuity.emissive_textures.tooltip": "Увімкнути або вимкнути яскраві текстури для моделей блоків і предметів.",
+  "options.continuity.custom_block_layers": "Власні Шари Блоків",
+  "options.continuity.custom_block_layers.tooltip": "Увімкнути або вимкнути власні шари блоків."
+}
